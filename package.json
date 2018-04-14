@@ -4,16 +4,17 @@
   "description": "this is a git based journal",
   "main": "README.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prebuild":
+      "rimraf dist && mkdir dist && echo \"# Journal\n\n\" > dist/index.md",
+    "build":
+      "git log --format=\"## %s %n%n %b %n\" --grep=\"--exclude\" --invert-grep >> dist/index.md"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Poltergeist/journal.git"
   },
-  "keywords": [
-    "journal",
-    "blog"
-  ],
+  "keywords": ["journal", "blog"],
   "author": "Poltergeist",
   "license": "MIT",
   "bugs": {
@@ -24,5 +25,9 @@
     "commitizen": {
       "path": "./node_modules/journal-log"
     }
+  },
+  "dependencies": {
+    "gh-pages": "^1.1.0",
+    "rimraf": "^2.6.2"
   }
 }
