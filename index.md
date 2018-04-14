@@ -9,9 +9,10 @@ excluding commits so that I can filter these out. This works actually pretty goo
 Journal which I can use without opening a browser :-) This is pretty cool.
  
 
-## bookmark: blueprint - 2018-04-14 23:05:33 +0200
+## Bookmark: Blueprint react JS component library - 2018-04-14 23:05:33 +0200
 
- [blueprint](http://blueprintjs.com/) - react component library
+ [blueprint](http://blueprintjs.com/) - react component library is a great example of a typescript
+component library. Using a Monorepo architecture.
  
 
 ## Bookmark - 2018-04-12 15:37:17 +0200
