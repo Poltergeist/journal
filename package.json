@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Poltergeist/journal/issues"
   },
-  "homepage": "https://github.com/Poltergeist/journal#readme"
+  "homepage": "https://github.com/Poltergeist/journal#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/journal-log"
+    }
+  }
 }
