@@ -1,6 +1,12 @@
 # Journal
 
 
+## Bookmark: react child components - 2018-04-18 14:01:44 +0200
+
+ This is a good article about react childrens and how to handle them [react children deep
+dive](https://mxstbr.blog/2017/02/react-children-deepdive/)
+ 
+
 ## Bookmark: react-spring - 2018-04-16 10:16:46 +0200
 
  Helping react-motion and animated to become best friends. [react Spring](https://github.com/drcmda/react-spring)
