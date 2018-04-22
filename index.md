@@ -1,6 +1,12 @@
 # Journal
 
 
+## Bookmark: JSunconf is an awesome conference - 2018-04-22 14:50:26 +0200
+
+ And this might be the link for the next awesome jsunconf
+[2019.jsunconf.eu](https://2019.jsunconf.eu)
+ 
+
 ## Bookmark: react child components - 2018-04-18 14:01:44 +0200
 
  This is a good article about react childrens and how to handle them [react children deep
