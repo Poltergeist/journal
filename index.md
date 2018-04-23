@@ -1,6 +1,13 @@
 # Journal
 
 
+## Bookmark: About the definition of component types - 2018-04-23 12:45:53 +0200
+
+ This is a article about different types of components and it is not using dumb and smart but
+presentational and container components [read
+here](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+ 
+
 ## Bookmark: JSunconf is an awesome conference - 2018-04-22 14:50:26 +0200
 
  And this might be the link for the next awesome jsunconf
