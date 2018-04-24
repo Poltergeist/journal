@@ -5,17 +5,18 @@
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prebuild":
-      "rimraf dist && mkdir dist && echo \"# Journal\n\n\" > dist/index.md",
-    "build":
-      "git log --format=\"## %s - %ai%n%n %b %n\" --grep=\"--exclude\" --invert-grep >> dist/index.md",
+    "prebuild": "rimraf dist && mkdir dist && echo \"# Journal\n\n\" > dist/index.md",
+    "build": "git log --format=\"## %s - %ai%n%n %b %n\" --grep=\"--exclude\" --invert-grep >> dist/index.md",
     "postbuild": "cp ./_config.yml ./dist/ && gh-pages -d dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Poltergeist/journal.git"
   },
-  "keywords": ["journal", "blog"],
+  "keywords": [
+    "journal",
+    "blog"
+  ],
   "author": "Poltergeist",
   "license": "MIT",
   "bugs": {
@@ -24,10 +25,11 @@
   "homepage": "https://github.com/Poltergeist/journal#readme",
   "config": {
     "commitizen": {
-      "path": "./node_modules/journal-log"
+      "path": "./node_modules/@specone/journal-log"
     }
   },
   "dependencies": {
+    "@specone/journal-log": "0.0.2",
     "gh-pages": "^1.1.0",
     "rimraf": "^2.6.2"
   }
