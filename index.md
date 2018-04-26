@@ -3,7 +3,7 @@
 
 ## Bookmark: The introduction to Reactive Programming you've been missing - 2018-04-26 16:13:33 +0200
 
- We are currently starting to adopt Reactive programming with rx.js in our codebase. Which means that
+ We are currently starting to adopt Reactive programming with rx.js in our codebase. Which means that I do need to get up to speed on this topic during my research I ran into one article which I think is pretty much explaining everything about it. [This article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
  
 
 ## Bookmark: Create graphics with hand-drawn, sketchy, apperance - 2018-04-24 12:44:18 +0200
