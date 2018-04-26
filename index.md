@@ -1,6 +1,11 @@
 # Journal
 
 
+## Bookmark: The introduction to Reactive Programming you've been missing - 2018-04-26 16:13:33 +0200
+
+ We are currently starting to adopt Reactive programming with rx.js in our codebase. Which means that
+ 
+
 ## Bookmark: Create graphics with hand-drawn, sketchy, apperance - 2018-04-24 12:44:18 +0200
 
  This is a framework to create handdrawn graphics in the browser. [rough.js](http://roughjs.com/)
