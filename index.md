@@ -1,6 +1,12 @@
 # Journal
 
 
+## Bookmark: HPLHS is a website with cool lovecraft stuff. - 2018-05-18 16:57:01 +0200
+
+ They also invented the DARK Adventure series. which is kind of a Audio version of a lot of lovecraft
+stories. [find it here](http://www.hplhs.org/)
+ 
+
 ## Bookmark: The introduction to Reactive Programming you've been missing - 2018-04-26 16:13:33 +0200
 
  We are currently starting to adopt Reactive programming with rx.js in our codebase. Which means that I do need to get up to speed on this topic during my research I ran into one article which I think is pretty much explaining everything about it. [This article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
