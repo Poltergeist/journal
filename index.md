@@ -1,6 +1,14 @@
 # Journal
 
 
+## Bookmark: A great guide on reading a textbook - 2018-06-12 15:28:36 +0200
+
+ I am currenlty reading a textbook on a specific area which interests me. And I asked myself how I
+cana read it most efficently so I do not waste too much time on it. So I looked up what everyone
+else does. I stumbled onto this
+[guide](https://www.cornellcollege.edu/academic-support-and-advising/study-tips/reading-textbooks.shtml).
+ 
+
 ## Bookmark: HPLHS is a website with cool lovecraft stuff. - 2018-05-18 16:57:01 +0200
 
  They also invented the DARK Adventure series. which is kind of a Audio version of a lot of lovecraft
